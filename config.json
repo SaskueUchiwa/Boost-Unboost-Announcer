@@ -1,4 +1,7 @@
 {
-  "boostChannelId": "YOUR BOOST CHANNEL ID",
-  "boostLogChannelId": "YOUR BOOST LOG CHANNEL ID"
+    "capmonster_key": "d1c66b006fce96d4243ae7bab3fdb7c3",
+    "activity": "natrix",
+    "server_nick": "GO N1TR0",
+    "change_server_nick": true,
+    "proxyless": true
 }
